@@ -24,23 +24,23 @@ Currently focusing on strengthening backend & problem-solving skills.
 ### 🎨 Frontend
 <p align="left">
   <span style="margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-    <b>&nbsp;&nbsp;HTML</b>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" &nbsp;&nbsp;/>
+    <b>&nbsp;HTML</b>
   </span>
 
   <span style="margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-    <b>&nbsp;&nbsp;CSS</b>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"&nbsp;&nbsp; />
+    <b>&nbsp;CSS</b>
   </span>
 
   <span style="margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-    <b>&nbsp;&nbsp; JavaScript</b>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"&nbsp;&nbsp; />
+    <b>&nbsp;JavaScript</b>
   </span>
 
   <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-    <b>&nbsp;&nbsp; React</b>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"&nbsp;&nbsp; />
+    <b>&nbsp;React</b>
   </span>
 </p>
 
