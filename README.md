@@ -23,7 +23,7 @@ Currently focusing on strengthening backend & problem-solving skills.
 
 ### 🎨 Frontend
 <p align="left">
-  <span style="margin-right: 20px;">
+  <span style="margin-right: 200px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
     <b>   HTML</b>
   </span>
