@@ -1,21 +1,100 @@
 <h1 align="center">Hi 👋, I'm Rahul Gardare</h1>
-<h3 align="center">A aspiring MERN stack developer....</h3>
+<h3 align="center">💻 MERN Stack Developer | Frontend Developer (Fresher)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-gardare2051&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-gardare2051" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-gardare2051" alt="rahul-gardare2051" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahul-gardare2051&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-gardare2051&show_icons=true&locale=en&layout=compact" alt="rahul-gardare2051" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-gardare2051&show_icons=true&locale=en" alt="rahul-gardare2051" /></p>
+🎓 Diploma Final Year Student (MSBTE – 2026)  
+📍 Nashik, Maharashtra  
+💡 Passionate about building scalable web applications  
+📊 Former Data Analytics Intern  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-gardare2051&" alt="rahul-gardare2051" /></p>
+I enjoy transforming ideas into real-world web solutions using modern technologies.  
+Currently focusing on strengthening backend & problem-solving skills.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+</p>
+
+### 🗄️ Database
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+</p>
+
+### 🧰 Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+</p>
+
+---
+
+## 💼 Internship Experience
+
+### 📊 Data Analytics Intern – Reliable IT School  
+📅 June 2025 – September 2025  
+
+- Data collection, cleaning & preprocessing using Python  
+- Performed basic data analysis & reporting  
+- Gained exposure to real-world analytics workflows  
+
+---
+
+## 🚀 Projects
+
+### ⛽ CNG Pump & CNG Booking Management System
+
+🔹 Web-based booking system for CNG users  
+🔹 Pump management panel for owners  
+🔹 Fully responsive UI  
+
+**Tech Used:** HTML, CSS, JavaScript  
+
+---
+
+## 🎯 Current Goals
+
+- 🔥 Become Strong MERN Stack Developer  
+- 📚 Improve DSA & Problem Solving  
+- 🌐 Deploy Production-Level Projects  
+- 🤝 Contribute to Open Source  
+
+---
+
+## 📊 GitHub Stats
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-gardare2051&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-gardare2051&layout=compact&theme=radical)
+
+---
+
+## 🌎 Connect With Me
+
+📧 rahulgardare0951@gmail.com  
+🔗 https://www.linkedin.com/in/rahul-gardare-947563326  
+🐙 https://github.com/rahul-gardare2051  
+
+---
+
+⭐ *“Consistency beats motivation.”*
