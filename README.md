@@ -23,7 +23,7 @@ Currently focusing on strengthening backend & problem-solving skills.
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+ <span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <p>HTML</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <p>CSS</p>
@@ -32,6 +32,7 @@ Currently focusing on strengthening backend & problem-solving skills.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <p>React</p>
 </p>
+ </span>
 
 ### ⚙️ Backend
 <p align="left">
