@@ -30,17 +30,17 @@ Currently focusing on strengthening backend & problem-solving skills.
 
   <span style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-    <b> CSS</b>
+    <b>&nbsp;&nbsp;CSS</b>
   </span>
 
   <span style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-    <b> JavaScript</b>
+    <b>&nbsp;&nbsp; JavaScript</b>
   </span>
 
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-    <b> React</b>
+    <b>&nbsp;&nbsp; React</b>
   </span>
 </p>
 
