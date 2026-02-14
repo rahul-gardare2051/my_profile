@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Gardare</h1>
-<h3 align="center">💻 MERN Stack Developer | Frontend Developer (Fresher)</h3>
+<h3 align="center">💻Aspiring Software Engineer | MERN Stack Developer | Frontend Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahul-gardare2051&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
@@ -12,7 +12,10 @@
 🎓 Diploma Final Year Student (MSBTE – 2026)  
 📍 Nashik, Maharashtra  
 💡 Passionate about building scalable web applications  
-📊 Former Data Analytics Intern  
+🔹   REST API integration
+🔹   Backend logic building
+🔹   Problem-solving & debugging
+🔹  Continuous learning
 
 I enjoy transforming ideas into real-world web solutions using modern technologies.  
 Currently focusing on strengthening backend & problem-solving skills.
