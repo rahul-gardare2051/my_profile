@@ -100,13 +100,6 @@ Currently focusing on strengthening backend & problem-solving skills.
 
 ## 💼 Internship Experience
 
-### 📊 Data Analytics Intern – Reliable IT School  
-📅 June 2025 – September 2025  
-
-- Data collection, cleaning & preprocessing using Python  
-- Performed basic data analysis & reporting  
-- Gained exposure to real-world analytics workflows  
-
 ---
 
 ## 🚀 Projects
