@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-🎓 Diploma Final Year Student (MSBTE – 2026)  
+🎓 Engineering Final Year Student  (SPPU – 2026)  
 📍 Nashik, Maharashtra  
 💡 Passionate about building scalable web applications  
 🔹   REST API integration
